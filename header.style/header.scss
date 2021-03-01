@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  
+}
+body {
+    font-family: montserrat; 
+    background-image: url(../images/image-h.png);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+form {
+
+    margin: 25px auto;
+    width: 330px;
+    color: blue;
+    padding: 400px 0px;
+    
+
+}
+
+
+input[type="text"] {
+    display: block;
+    width: 653px;
+    height: 40px;
+    border: solid  blue; 
+    background-color: white;  
+}
+
+
+
+
+
+ 
+nav {
+   
+    background: #5474FD;
+    height: 80px;
+    width: 1770px;
+    width: 100%;
+   
+}
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    letter-spacing: 4.8px;
+ 
+}
+nav ul {
+    float: right;
+    margin-right: 100px;
+}
+nav ul li {
+   display: inline-block;
+   line-height: 80px;
+   margin: 0 5px;
+   color: white;
+   
+}
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+text {
+    
+    width: 372px;
+    height: 76px;
+    left: 673px;
+    top: 265px;
+}
+
+h1 {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 300px 700px;
+    letter-spacing: 4.8px;
+
+}
+
+
+
